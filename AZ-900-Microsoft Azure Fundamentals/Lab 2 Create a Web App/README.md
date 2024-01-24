@@ -34,6 +34,7 @@ En este laboratorio, aprenderás a crear una aplicación web de Azure App Servic
 
 ## Bibliografía
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
+- [Create a web app service](https://learn.microsoft.com/en-gb/training/modules/host-a-web-app-with-azure-app-service/2-create-a-web-app-in-the-azure-portal?WT.mc_id=ilt_partner_webpage_wwl&ocid=4704327)
 - [go deploy](https://lms.godeploy.it/)
 
 
