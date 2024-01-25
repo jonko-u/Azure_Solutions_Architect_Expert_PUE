@@ -14,7 +14,7 @@ En este laboratorio, crearemos una Function App para mostrar un mensaje Hello cu
 Azure Functions se utilizan ampliamente en escenarios en los que necesita ejecutar código en respuesta a eventos, como solicitudes HTTP, cambios en la base de datos o mensajes en una cola. La naturaleza sin servidor de Azure Functions garantiza la rentabilidad y la escalabilidad, lo que las hace adecuadas para diversas aplicaciones, incluidos los microservicios, la automatización y las arquitecturas basadas en eventos.
 
 ## Desarrollo del Laboratorio
-![Logo](/AZ-900-Microsoft%20Azure%20Fundamentals/Lab%208%20Implement%20Azure%20Functions/Lab8.png)
+![Logo](/AZ-900-Microsoft%20Azure%20Fundamentals/Lab%208%20Implement%20Azure%20Functions/screenshots/Lab8.png)
 
 
 ## About me
