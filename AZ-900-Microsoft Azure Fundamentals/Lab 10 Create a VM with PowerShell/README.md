@@ -7,6 +7,8 @@ En este laboratorio, instalaremos PowerShell localmente, crearemos grupos de rec
 ## Desarrollo del Laboratorio
 ![Logo](/AZ-900-Microsoft%20Azure%20Fundamentals/Lab%2010%20Create%20a%20VM%20with%20PowerShell/screenshots/Lab10.png)
 
+## Informe de Recomendaciones(/assets/_.pdf)
+![Logo](/AZ-900-Microsoft%20Azure%20Fundamentals/Lab%2010%20Create%20a%20VM%20with%20PowerShell/screenshots/Security%20Recommentations.jpg)
 
 ## About me
 - [@jonko-u](https://github.com/jonko-u)
