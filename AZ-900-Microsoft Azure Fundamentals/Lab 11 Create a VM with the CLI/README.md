@@ -7,6 +7,10 @@ En este laboratorio, configuraremos el Cloud Shell, usaremos Azure CLI para crea
 ## Desarrollo del Laboratorio
 ![Logo](/AZ-900-Microsoft%20Azure%20Fundamentals/Lab%2011%20Create%20a%20VM%20with%20the%20CLI/screenshots/Lab11.png)
 
+## Informe de Recomendaciones
+![Logo](/AZ-900-Microsoft%20Azure%20Fundamentals/Lab%2011%20Create%20a%20VM%20with%20the%20CLI/screenshots/Could%20not%20find%20any%20recommendations.png)
+
+
 
 ## About me
 - [@jonko-u](https://github.com/jonko-u)
