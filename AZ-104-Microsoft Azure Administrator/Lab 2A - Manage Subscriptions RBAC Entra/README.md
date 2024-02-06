@@ -6,7 +6,7 @@ En este laboratorio, asignaremos roles y veremos los registros de actividad.
 ![Logo](/AZ-104-Microsoft%20Azure%20Administrator/Lab%202A%20-%20Manage%20Subscriptions%20RBAC%20Entra/screenshots/Lab2A.png)
 
 ## Video
-https://youtu.be/xKTOr40euGM
+https://youtu.be/grHdA5efAXo 
 
 ## About me
 - [@jonko-u](https://github.com/jonko-u)
