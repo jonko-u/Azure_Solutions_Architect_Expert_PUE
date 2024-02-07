@@ -9,7 +9,7 @@ En este laboratorio, aprenderá cómo se puede implementar Azure Firewall en su 
 ![Logo](/AZ-104-Microsoft%20Azure%20Administrator/Lab%204B%20-%20Deploy%20Azure%20Firewall/screenshots/Lab4B.png)
 
 ## Video
-https://youtu.be/kK_NsFuW0iY
+https://youtu.be/Su9BLxadfaM
 
 ## About me
 - [@jonko-u](https://github.com/jonko-u)
