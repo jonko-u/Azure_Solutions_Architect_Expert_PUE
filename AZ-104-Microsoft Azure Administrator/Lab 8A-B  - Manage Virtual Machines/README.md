@@ -6,17 +6,17 @@ Objetivos
 
 En este laboratorio, usted:
 
-    Tarea 1: Implementar máquinas virtuales Azure resistentes a la zona utilizando el portal de Azure y una plantilla de Azure Resource Manager.
-    Tarea 2: Configurar máquinas virtuales Azure utilizando extensiones de máquina virtual
-    Tarea 3: Escalar computación y almacenamiento para máquinas virtuales Azure
-    Tarea 4: Desplegar conjuntos de escalado de máquinas virtuales Azure resistentes a la zona utilizando el portal Azure
-    Tarea 5: Configurar conjuntos de escalado de máquinas virtuales Azure utilizando extensiones de máquinas virtuales
-    Tarea 6: Escalar la computación y el almacenamiento para conjuntos de escalado de máquinas virtuales Azure (opcional)
+- Tarea 1: Implementar máquinas virtuales Azure resistentes a la zona utilizando el portal de Azure y una plantilla de Azure Resource Manager.
+- Tarea 2: Configurar máquinas virtuales Azure utilizando extensiones de máquina virtual
+- Tarea 3: Escalar computación y almacenamiento para máquinas virtuales Azure
+- Tarea 4: Desplegar conjuntos de escalado de máquinas virtuales Azure resistentes a la zona utilizando el portal Azure
+- Tarea 5: Configurar conjuntos de escalado de máquinas virtuales Azure utilizando extensiones de máquinas virtuales
+- Tarea 6: Escalar la computación y el almacenamiento para conjuntos de escalado de máquinas virtuales Azure (opcional)
 
 
 
 ## Desarrollo del Laboratorio
-![Logo](/AZ-104-Microsoft%20Azure%20Administrator/Lab%208A%20-%20Manage%20Virtual%20Machines/screenshots/Lab8A.png)
+![Logo](/AZ-104-Microsoft%20Azure%20Administrator/Lab%208A-B%20%20-%20Manage%20Virtual%20Machines/screenshots/Lab8A.png)
 ## Video
 https://youtu.be/Amc_esHLglo
 
