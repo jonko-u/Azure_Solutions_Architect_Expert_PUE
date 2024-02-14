@@ -11,7 +11,7 @@ En este laboratorio:
 ## Desarrollo del Laboratorio
 ![Logo](/AZ-104-Microsoft%20Azure%20Administrator/Lab%209C%20-%20Implement%20Azure%20Container%20Apps/screenshots/Lab9C.png)
 ## Video
-
+https://youtu.be/Gi8ZNbr0WXU
 
 ## About me
 - [@jonko-u](https://github.com/jonko-u)
