@@ -15,7 +15,7 @@ En este ejercicio, usted:
 ![Logo](/AZ-700-Designing%20%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions/M01%20-%20Unit6-%20Configure%20DNS%20settings%20in%20Azure/screenshots/Unit06.png)
 
 ## Video
-
+https://youtu.be/f2U-JUMUSjE
 
 ## About me
 - [@jonko-u](https://github.com/jonko-u)
