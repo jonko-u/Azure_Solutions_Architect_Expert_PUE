@@ -18,7 +18,7 @@ En este ejercicio, usted:
 
 
 ## Desarrollo del Laboratorio
-![Logo](/AZ-700-Designing%20%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions/M02-Unit%203%20Create%20and%20configure%20a%20virtual%20network%20gateway/screenshots/Unit03.png)
+![Logo](/AZ-700-Designing%20%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions/M02%20-%20Unit%203%20Create%20and%20configure%20a%20virtual%20network%20gateway/screenshots/Unit03.png)
 
 ## Video
 https://youtu.be/2282eAB4dME
