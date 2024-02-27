@@ -15,7 +15,6 @@ En este ejercicio, usted:
 - Tarea 9: Crear máquinas virtuales
 - Tarea 10: Confirmar el acceso a la cuenta de almacenamiento
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
 
 ## Desarrollo del Laboratorio
 ![Logo](/AZ-700-Designing%20%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions/M07%20-%20Unit%205%20Restrict%20Network%20access%20to%20PaaS%20resources%20with%20virtual%20network%20service%20endpoints/screenshots/Unit05.png)
