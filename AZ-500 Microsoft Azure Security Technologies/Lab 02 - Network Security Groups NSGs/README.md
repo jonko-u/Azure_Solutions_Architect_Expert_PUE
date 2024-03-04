@@ -16,8 +16,6 @@ En este laboratorio, usted completará los siguientes ejercicios:
 - Ejercicio 1: Crear la infraestructura de red virtual
 - Ejercicio 2: Despliegue de máquinas virtuales y prueba de los filtros de red
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
-
 
 ## Desarrollo del Laboratorio
 ![Logo](/AZ-500%20Microsoft%20Azure%20Security%20Technologies/Lab%2002%20-%20Network%20Security%20Groups%20NSGs/screenshots/Lab02.png)
